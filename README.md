@@ -125,9 +125,9 @@ To explore or contribute:
 
 **DataCo Analysis Group Case Contributors**
 - Case Study Design: DataCo Analytics Team
-- Data Cleaning & Modeling: [Your Name]
-- Dashboard Design: [Your Name]
-- Documentation: [Your Name]
+- Data Cleaning & Modeling: [Soumya Anand]
+- Dashboard Design: [Soumya Anand]
+- Documentation: [Soumya Anand]
 
 ---
 
@@ -148,8 +148,8 @@ This project is for educational use under [MIT License](LICENSE).
 ## 📬 Contact
 
 Feel free to reach out for collaboration or suggestions:
-📧 [your.email@example.com]  
-🌐 [Your LinkedIn or Portfolio]
+📧 [soumyaanand89@gmail.com]  
+🌐 [https://www.linkedin.com/in/soumya-anand-013b0b9a/]
 
 ---
 
