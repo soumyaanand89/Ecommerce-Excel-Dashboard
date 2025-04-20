@@ -1,5 +1,6 @@
 # 📦 Ecommerce Case Study — *Streamline & Spotlight*
 
+## Link- https://docs.google.com/spreadsheets/d/1mJYhVSzJ2qUoroCSZSCvv3k2wzTBF6YK/edit?usp=drive_link&ouid=112750180062451776083&rtpof=true&sd=true
 ## ✨ Unraveling the Narrative of Supply Chain Excellence and Digital Footprints
 
 ---
